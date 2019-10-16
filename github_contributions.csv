@@ -1,1 +1,12 @@
 Mageplaza,Mageplaza
+"Please enter a quantity greater than 0.","Angiv venligst et antal større end 0.",lib,web
+"The maximum you may purchase is %1.","Det maksimale du må købe er %1.",lib,web
+"Forbidden extensions has been used. Avoid usage of ","En ikke tilladt udvidelse er blevet brugt. Undgå brugen af ",lib,web
+"No marginal white space please","Undgå venligst marginale mellemrum",lib,web
+"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Angiv venligst mindst 6 tegn. Mellemrum før og efter vil blive ignoreret.",lib,web
+"Enter valid SKU key","Angiv gyldig SKU nøgle",lib,web
+"Swatch and Admin are the required fields in the each row.","Swatch og Admin er påkrævede felter i hver række.",lib,web
+"Insert Variable","Indsæt Variabel",lib,web
+"The widget %1 is no longer available. Select a different widget.","Widget %1 er ikke længere tilgængelig. Vælg en anden widget.",lib,web
+"First character must be letter.","Første tegn skal være et bogstav.",lib,web
+"The password can't be the same as the email address. Create a new password and try again.","Kodeordet kan ikke være det samme som email adressen. Lav et nyt kodeord og prøv igen.",lib,web
